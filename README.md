@@ -6,4 +6,4 @@ Framework: **Laravel 10**
 
 ---
 | - | **Daffa Rahadian** [@daffarahadian12](https://github.com/daffarahadian12)
-| - | **Dosen Pembimbing: [Pak Edo Arribe]** | Reviewer / Observer | |
+| - | **Dosen Pembimbing: [Pak Edo Arribe, S.Kom., MMSI]** | Reviewer / Observer | |
